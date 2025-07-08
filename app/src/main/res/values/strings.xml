@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KreioTech-ActivityBlocker</string>
+    <string name="accessibility_service_description">Blocks Instagram Reels by returning to home screen.</string>
+</resources>
